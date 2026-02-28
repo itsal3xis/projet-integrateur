@@ -21,9 +21,8 @@
 |------------------|--------------------|----------|
 | PFsense          | 192.168.10.1       | Statique |
 | VM-AD/DNS        | 192.168.10.10      | Statique |
-| VM-Zabbix        | 192.168.10.20      | Statique |
-| Imprimante       | 192.168.10.50      | Statique |
-| PCs Admin        | DHCP (.100-.200)     | DHCP     |
+| VM-VEEAM         | 192.168.10.103     | Statique |
+| PCs Admin        | DHCP (.100-.200)   | DHCP     |
 
 ## VLAN Succursale MTL (ID 20)
 
@@ -61,6 +60,7 @@
 | Switch HQ        | 192.168.60.2       | Statique |
 | AP 1             | 192.168.60.10      | Statique |
 | AP 2             | 192.168.60.20      | Statique |
+| Unifi            | 192.168.60.5       | Statique |
 
 
 ## VLAN Wi-Fi publique (ID 100)
@@ -82,7 +82,7 @@
 | Appareil/Service | Adresse IP         | Mode     |
 |------------------|--------------------|----------|
 | PFsense          | 192.168.120.1      | Statique |
-| Connexions VPN   | DHCP (.5-.200)     | DHCP     |
+| Connexions VPN   | DHCP (.2-.200)     | DHCP     |
 
 ## VLAN FAI (ID 460)
 

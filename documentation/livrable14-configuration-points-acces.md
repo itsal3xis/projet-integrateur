@@ -98,5 +98,5 @@ Pour assurer l’isolation du Wi-Fi public tout en maintenant l’accès Interne
 > - L’accès Internet pour les clients du Wi-Fi public  
 > - Le blocage complet du réseau interne (VLAN employés, VLAN management, etc.)
 
-![alt text](reglewifipub.png)
+![alt text](images/reglewifipub.png)
 

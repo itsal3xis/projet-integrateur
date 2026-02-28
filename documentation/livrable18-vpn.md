@@ -12,9 +12,9 @@
   - Full-tunnel : `redirect-gateway def1`
 
 ## Preuve de connexion réussie (capture d’écran)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](images/image.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
 
 ## Comptes créés
 - Chaque membre possède son propre compte VPN :

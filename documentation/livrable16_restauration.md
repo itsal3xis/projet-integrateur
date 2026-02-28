@@ -22,8 +22,8 @@ Mettre en place un outil de capture et de restauration d'une image système afin
 7. Vérifier l’intégrité de l’image via l’option **Vérifier l’image**.
 
 **Capture d’écran / photo pendant la capture :**  
-![alt text](1.png)
-![alt text](4.png)
+![alt text](images/1.png)
+![alt text](images/4.png)
 
 ---
 
@@ -34,7 +34,7 @@ Mettre en place un outil de capture et de restauration d'une image système afin
 3. Sélectionner la **clé USB** pour créer le support.  
 4. Lancer la création → attendre la fin.  
 
-![alt text](<Capture d’écran 2026-02-19 095022.png>)
+![alt text](<images/Capture d’écran 2026-02-19 095022.png>)
 Résultat : clé USB bootable avec AOMEI Backupper prête pour la restauration.
 
 ---
@@ -52,15 +52,15 @@ Résultat : clé USB bootable avec AOMEI Backupper prête pour la restauration.
 9. Retirer la clé USB et redémarrer normalement.  
 
 **Capture d’écran avant la restauration avec des modifications non sauvegardées :** 
-![alt text](aaaaa.png)
+![alt text](images/aaaaa.png)
 
 **photos pendant la restauration :**
-![alt text](20260219_100953.jpg)
-![alt text](20260219_101108.jpg)
-![alt text](20260219_101554.jpg)
-![alt text](20260219_101602.jpg)
+![alt text](images/20260219_100953.jpg)
+![alt text](images/20260219_101108.jpg)
+![alt text](images/20260219_101554.jpg)
+![alt text](images/20260219_101602.jpg)
 
 
 **Capture d’écran après la restauration :** 
-![alt text](final.png)
+![alt text](images/final.png)
 

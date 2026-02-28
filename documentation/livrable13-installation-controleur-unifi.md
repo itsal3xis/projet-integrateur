@@ -51,4 +51,4 @@ https://192.168.60.5:8443
 
 ## 5. Capture de l'écran d'accueil du controleur Unifi
 
-![alt text](Controleurunifi.png)
+![alt text](images/Controleurunifi.png)

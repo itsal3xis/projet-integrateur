@@ -10,7 +10,7 @@
 | Adresse IP | 192.168.60.107 (DHCP) |
 
 **Capture d’écran `ipconfig /all` :**  
-![Configuration IP de PC-S0-01](ipconfig.png)
+![Configuration IP de PC-S0-01](images/ipconfig.png)
 
 ---
 
@@ -22,7 +22,7 @@
 | D: (DATA) | 50% | Données de sauvegarde |
 
 **Capture d’écran des partitions :**  
-![Partitions C: et D: sur PC-S0-01](disques.png)
+![Partitions C: et D: sur PC-S0-01](images/disques.png)
 
 ---
 
@@ -34,10 +34,10 @@
   - 7-Zip  
 
 **Capture d’écran de la jointure au domaine :**  
-![PC-S0-01 joint au domaine AD](ad.png)
+![PC-S0-01 joint au domaine AD](images/ad.png)
 
 **Capture d’écran du lecteur réseau S: Installations :**  
-![Lecteur réseau S: Installations](lecteuretapp.png)
+![Lecteur réseau S: Installations](images/lecteuretapp.png)
 
 ---
 
@@ -47,7 +47,7 @@
 - Pilotes installés : carte réseau, carte graphique, audio, chipset, imprimante
 
 **Capture d’écran du gestionnaire de périphériques :**  
-![alt text](h.png)
+![alt text](images/h.png)
 
 
 ---
